@@ -1,4 +1,4 @@
-<img src="https://github.com/GHNuma/GHNuma/blob/master/img/header.png/>
+<img src="https://github.com/GHNuma/GHNuma/blob/master/img/header.png />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghnuma&label=activity&color=21b40e&style=plastic" alt="ghnuma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghnuma" alt="ghnuma" /></a> </p>
