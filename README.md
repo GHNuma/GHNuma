@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Jmart from Jusan Bank](https://jmart.kz/)
 
-- 🌱 I’m currently learning **Angular,Java**
+- 🌱 I’m currently learning **Angular, Java**
 
 - 💬 Ask me about **react, node. I will do my best for you**
 
