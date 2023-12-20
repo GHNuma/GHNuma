@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghnuma" alt="ghnuma" /></a> </p>
 
-- 🔭 I’m currently working on [Jmart from Jusan Bank](https://jmart.kz/)
+- 🔭 I’m currently working on Free to work
 
 - 🌱 I’m currently learning **Angular, Java**
 
