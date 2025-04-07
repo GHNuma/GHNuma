@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghnuma&theme=dark" alt="ghnuma" /></p>
 
-[![GHNuma's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghnuma&theme=react-dark&custom_title=Contribution%20check&hide_border=true&from=2020-01-01&to=2025-04-07)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GHNuma's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghnuma&theme=react-dark&custom_title=Contribution%20check&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
